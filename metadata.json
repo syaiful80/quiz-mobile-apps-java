@@ -1,0 +1,6 @@
+{
+  "name": "DFP40453 Intent & Toast",
+  "description": "Aplikasi Cabaran Kod Intent & Toast untuk pelajar Politeknik Malaysia DFP40453 Mobile Application Development (Java & XML)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
